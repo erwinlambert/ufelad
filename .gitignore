@@ -1,5 +1,8 @@
 .DS_Store
 
+*.sh
 input/
 output/
 video/
+video2/
+video3/
